@@ -14,6 +14,7 @@ describe("Notifications API Integration Tests", () => {
     password: "password123",
   };
 
+  
   let token = "";
   let userObjectId = "";
   let notifAId = "";
